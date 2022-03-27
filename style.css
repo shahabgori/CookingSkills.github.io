@@ -1,0 +1,15 @@
+#navbarSupportedContent{
+    text-align: right;
+}
+.nav-item{
+    display: inline;
+    
+    
+    font-size: 30px;
+    list-style: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: crimson;
+}
+img{
+    width: 1400px;
+}
